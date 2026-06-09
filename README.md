@@ -7,7 +7,8 @@ to identify key drivers of employee attrition.
 ## Tools Used
 - MySQL Workbench
 - SQL (Joins, Aggregations, CTEs, Window Functions)
-
+- Currently upskilling in Python (Pandas , NumPy)
+  
 ## Dataset
 IBM HR Analytics Employee Attrition Dataset
 
